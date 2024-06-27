@@ -1,0 +1,9 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+pillow
+psycopg2
+requests
+pytest
+django_extensions
+drf_yasg
